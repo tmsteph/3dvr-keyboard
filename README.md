@@ -19,6 +19,16 @@ A split ergonomic keyboard designed for digital nomads and VR enthusiasts. Featu
 
 - Instructions for setting up and using the software.
 
+/docs
+/hardware
+    /keyboard
+    /vr-control-interface
+/software
+    /firmware
+    /desktop
+    /mobile
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
